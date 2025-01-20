@@ -49,7 +49,7 @@ Strong magnets are crucial, as they counteract the springs in your switches. I u
 
 ---
 
-## Folded Design
+## 'Prism' Ergonomic Mode
 
 For the reverse folded position:
 
@@ -59,7 +59,7 @@ For the reverse folded position:
 ### Adjustments:
 
 - You can edit the lip's width to adjust the folding angle.
-- Recommended change: **Move the lip from the top to the bottom hinge**, because:
+- Recommended change: **Move the lip from the top hinge to the bottom hinge**, because:
   - The top hinge cannot be removed without complete rewiring.
   - The bottom hinge allows for hinge pin removal, making angle changes easier.
 
