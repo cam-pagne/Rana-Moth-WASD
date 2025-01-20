@@ -8,7 +8,7 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth controller, a
 </div>
 
 <details>
-  <summary><h2>What's changed from the original?</h2></summary>
+  <summary><h3>What's changed from the original?</h2></summary>
 
 - Removed a modifier button and moved them to be more comfortable to use.
 - Added the WASD up button, sunk some of the shell under the WASD cluster to add mounting points for the Pico.
