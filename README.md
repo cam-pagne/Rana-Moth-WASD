@@ -19,6 +19,8 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth controller, a
 - Changed magnet hole size to accommodate larger magnets that could snap the controller firmly together.
 - Filleted the edges of the controller to give it a nice rounded feel.
 
+  </details>
+
 
 ---
 
