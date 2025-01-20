@@ -24,7 +24,7 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable l
 
 ---
 
-## Shell Prints
+## Build Overview
 
 I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG or PLA should work. I printed the hinge pin with **PLA+**, as PETG would warp without supports.
 
