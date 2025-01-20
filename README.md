@@ -1,6 +1,6 @@
 # The Rana Labs Moth (WASD Version)
 
-My version of Rana Labs' Moth controller, a foldable leverless controller.
+My version of Rana Labs[Rana Labs](https://github.com/rana-sylvatica)' Moth controller, a foldable leverless controller.
 
 <div style="display: flex;">
     <img src="Images/Layout.jpg" alt="Layout 1" width="300" />
