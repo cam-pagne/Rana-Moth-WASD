@@ -26,7 +26,7 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable l
 
 ## Shell Prints
 
-I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG should work. I printed the hinge pin with **PLA+**, as PETG would warp without supports.
+I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG or PLA should work. I printed the hinge pin with **PLA+**, as PETG would warp without supports.
 
 - **Microcontroller:** Standard Pico, screws in with any **M2 screws** (4mm length, but shorter would work).
 - **Switches:** Must be **low profile switches**. I used **Cosmox Wind Engines** and a couple **Gateron KS33 Silvers**.
