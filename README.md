@@ -54,7 +54,7 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 
 ## Magnets
 
-Strong magnets are crucial, as they counteract the springs in your switches. I used:
+Strong magnets are crucial, as they have to counteract every single spring in your switches. I used:
 
 - **6x2mm Neodymium magnets**, stacked **3 high** in each of the **10 total holes** (30 total magnets).
 - These create a satisfying snap and keep the Moth securely folded.
