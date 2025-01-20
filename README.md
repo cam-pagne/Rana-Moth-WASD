@@ -7,6 +7,18 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth controller, a
     <img src="Images/Folded.jpg" alt="Layout 2" width="300" />
 </div>
 
+<details>
+  <summary><h2>What's changed from the original?</h2></summary>
+
+- Removed a modifier button and moved them to be more comfortable to use.
+- Added the WASD up button, sunk some of the shell under the WASD cluster to add mounting points for the Pico.
+- Changed the USB-C port location to accommodate for WASD, fitted for ModelUD.
+- Enlarged the hinge rounded edges to provide a friction fit for when you want to play in 'prism' mode.
+- Added a lip to the hinge to lock in the desired prism angle.
+- Changed thickness of the hinge pin holes to have a tighter friction fit.
+- Changed magnet hole size to accommodate larger magnets that could snap the controller firmly together.
+- Filleted the edges of the controller to give it a nice rounded feel.
+
 
 ---
 
