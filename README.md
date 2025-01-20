@@ -27,8 +27,8 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
    - Pass wires behind the hinge pin for neatness.
 
 3. **Hinge Pin Placement:**
-   - Insert the hinge pin **after** wiring the cross-body connections.
-   - Attempting to run wires before inserting the hinge pin can make installation difficult.
+   - Insert the hinge pin **before** wiring the cross-body connections.
+   - Attempting to run wires before inserting the hinge pin can make installation difficult, the wires will block the pin from going through.
 
 ---
 
