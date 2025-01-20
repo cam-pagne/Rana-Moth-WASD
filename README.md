@@ -72,7 +72,7 @@ For the reverse folded position:
 
 ### Adjustments:
 
-- You can edit the lip's width to adjust the folding angle.
+- You can edit the hinge lip's width to adjust the folding angle.
 - Recommended change: **Move the lip from the top hinge to the bottom hinge**, because:
   - The top hinge cannot be removed without complete rewiring.
   - The bottom hinge allows for hinge pin removal, making angle changes easier.
