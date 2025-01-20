@@ -2,7 +2,7 @@
 
 My version of Rana Labs' Moth controller, a foldable leverless controller.
 
-![Layout](images/Layout.jpg)
+![Layout](Images/Layout.jpg)
 
 
 ---
