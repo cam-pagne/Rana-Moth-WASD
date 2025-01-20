@@ -48,7 +48,7 @@ Strong magnets are crucial, as they counteract the springs in your switches. I u
 For the reverse folded position:
 
 - A **lip** on the top hinge piece prevents overfolding, creating a stopping point.
-- Hinges have a rounded back that creates friction, providing rigidity.
+- Hinges have a rounded back that creates friction, providing rigidity while playing in the ergonomic 'prism' setup.
 
 ### Adjustments:
 
