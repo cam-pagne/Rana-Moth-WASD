@@ -1,6 +1,6 @@
 # The Rana Labs Moth (WASD Version)
 
-My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable leverless controller.
+WASD version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable leverless controller.
 
 <div style="display: flex;">
     <img src="Images/Layout.jpg" alt="Layout 1" width="300" />
@@ -10,13 +10,14 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable l
 <details>
   <summary><h4>What's changed from the original?</h4></summary>
 
-- Added the WASD up button, sunk some of the shell under the WASD cluster to add mounting points for the Pico.
-- Removed a modifier button and moved them to be more comfortable to use.
-- Changed the USB-C port location to accommodate for WASD, fitted for ModelUD.
+- Added the WASD style up button
+- Sunk some of the shell under the WASD cluster to add mounting points for the Raspberry Pico.
+- Removed a modifier button and moved the position of them to be more comfortable to use.
+- Changed the USB-C port location to accommodate for WASD layout, port slot fitted for ModelUD.
 - Enlarged the hinge rounded edges to provide a more secure friction fit for when you want to play in 'prism' mode.
 - Added a lip to the hinge to lock in the desired prism angle.
 - Changed thickness of the hinge pin holes to have a tighter friction fit.
-- Changed magnet hole size to accommodate larger magnets that could snap the controller firmly together.
+- Changed magnet hole size to accommodate larger magnets that snap the controller firmly together.
 - Filleted the edges of the controller to give it a nice rounded feel.
 
   </details>
@@ -36,13 +37,13 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 
 ## Assembly Instructions
 
-1. **Pico Side:**
+1. **How to Start:**
    - Wire up the **Pico side completely** first.
    - Then, individually run the wires from the opposite side one by one.
-   - **Important:** Do this while the Moth is in the **folded position!**
+   - **Important:** Run the cross-body wiring while the Moth is in the **folded position!**
 
 2. **Wiring Tips:**
-   - If not folded while soldering cross-body wires, they might be pulled too tightly when folding.
+   - If not folded while soldering cross-body wires, they might be pulled too tightly when subsequently folding.
    - Leave **decent slack** for cross-body wiring.
    - Pass wires behind the hinge pin for neatness.
 
@@ -75,7 +76,7 @@ For the reverse folded position:
 - You can edit the hinge lip's width to adjust the folding angle.
 - Recommended change: **Move the lip from the top hinge to the bottom hinge**, because:
   - The top hinge cannot be removed without complete rewiring.
-  - The bottom hinge allows for hinge pin removal, making angle changes easier.
+  - The bottom hinge allows for hinge pin removal without interfering with the top hinge, making angle changes easier if the lip is placed on the bottom hinge.
 
 ---
 
