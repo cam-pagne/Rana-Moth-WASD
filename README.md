@@ -36,7 +36,7 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 
 ## Assembly Instructions
 
-1. **Pre-Wiring:**
+1. **Pico Side:**
    - Wire up the **Pico side completely** first.
    - Then, individually run the wires from the opposite side one by one.
    - **Important:** Do this while the Moth is in the **folded position!**
