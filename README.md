@@ -2,7 +2,10 @@
 
 My version of Rana Labs' Moth controller, a foldable leverless controller.
 
-![Layout](Images/Layout.jpg)
+<div style="display: flex;">
+    <img src="Images/Layout.jpg" alt="Layout 1" width="300" />
+    <img src="Images/Folded.jpg" alt="Layout 2" width="300" />
+</div>
 
 
 ---
