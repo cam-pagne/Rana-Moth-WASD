@@ -13,7 +13,7 @@ My version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable l
 - Added the WASD up button, sunk some of the shell under the WASD cluster to add mounting points for the Pico.
 - Removed a modifier button and moved them to be more comfortable to use.
 - Changed the USB-C port location to accommodate for WASD, fitted for ModelUD.
-- Enlarged the hinge rounded edges to provide a friction fit for when you want to play in 'prism' mode.
+- Enlarged the hinge rounded edges to provide a more secure friction fit for when you want to play in 'prism' mode.
 - Added a lip to the hinge to lock in the desired prism angle.
 - Changed thickness of the hinge pin holes to have a tighter friction fit.
 - Changed magnet hole size to accommodate larger magnets that could snap the controller firmly together.
