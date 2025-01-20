@@ -30,7 +30,7 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 
 - **Microcontroller:** Standard Pico, screws in with any **M2 screws** (4mm length, but shorter would work).
 - **Switches:** Must be **low profile switches**. I used **Cosmox Wind Engines** and a couple **Gateron KS33 Silvers**.
-- **USB-C Connector:** Model UD (superglued in), but I recommend using **ModelBirdD** for mounting with screws. You'll need to modify the model slightly to fit ModelBirdD.
+- **USB-C Connector:** [Model UD](https://github.com/HTangl/Model-UD) (superglued in), but I recommend using **ModelBirdD** for mounting with screws. You'll need to modify the model slightly to fit ModelBirdD.
 
 ---
 
