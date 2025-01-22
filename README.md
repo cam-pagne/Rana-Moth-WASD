@@ -57,7 +57,7 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 
 This was my first soldering project in a long time, so your solder joints could be significantly better than mine. The important thing to note is how the wires flow from the non-Pico side to the Pico side of the controller.
 <div style="display: flex;">
-    <img src="Images/Wiring Example.jpg" alt="Layout 1" width="300" />
+    <img src="Images/Wiring Example.jpg" alt="Layout 1" width="500" />
 </div>
 
   </details>
