@@ -32,18 +32,6 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 - **Microcontroller:** Standard Pico, screws in with any **M2 screws** (4mm length, but shorter would work).
 - **Switches:** Must be **low profile switches**. I used **Cosmox Wind Engines** and a couple **Gateron KS33 Silvers**.
 - **USB-C Connector:** [Model UD](https://github.com/HTangl/Model-UD) (superglued in), but I recommend using the **Model BirdD** for mounting with screws. You'll need to modify the model slightly to fit the Model BirdD.
-
----
-
-**Wiring Example**
-
-This was my first soldering project in a long time, so your solder joints could be significantly better than mine. The important thing to note is how the wires flow from the non-Pico side to the Pico side of the controller.
-<div style="display: flex;">
-    <img src="Images/Wiring Example.jpg" alt="Layout 1" width="300" />
-</div>
-
-  </details>
-
 ---
 
 ## Assembly Instructions
@@ -61,6 +49,18 @@ This was my first soldering project in a long time, so your solder joints could 
 3. **Hinge Pin Placement:**
    - Insert the hinge pin **before** wiring the cross-body connections.
    - Attempting to run wires before inserting the hinge pin can make installation difficult, the wires will block the pin from going through.
+
+---
+
+
+**Wiring Example**
+
+This was my first soldering project in a long time, so your solder joints could be significantly better than mine. The important thing to note is how the wires flow from the non-Pico side to the Pico side of the controller.
+<div style="display: flex;">
+    <img src="Images/Wiring Example.jpg" alt="Layout 1" width="300" />
+</div>
+
+  </details>
 
 ---
 
