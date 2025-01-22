@@ -33,9 +33,9 @@ I printed the entire shell, hinges, etc., in **Bambu Lab PETG**, though any PETG
 - **Switches:** Must be **low profile switches**. I used **Cosmox Wind Engines** and a couple **Gateron KS33 Silvers**.
 - **USB-C Connector:** [Model UD](https://github.com/HTangl/Model-UD) (superglued in), but I recommend using the **Model BirdD** for mounting with screws. You'll need to modify the model slightly to fit the Model BirdD.
 
-Wiring Example
+**Wiring Example**
 <div style="display: flex;">
-    <img src="Images/Wiring Example.jpg" alt="Layout 1" width="600" />
+    <img src="Images/Wiring Example.jpg" alt="Layout 1" width="300" />
 </div>
 
   </details>
