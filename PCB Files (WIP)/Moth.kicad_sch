@@ -1966,88 +1966,6 @@
 				)
 			)
 		)
-		(symbol "Mechanical:MountingHole"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MountingHole"
-				(at 0 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Mounting Hole without connection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "mounting hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "MountingHole*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.27)
-					(stroke
-						(width 1.27)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-		)
 		(symbol "Memory_Flash:W25Q128JVS"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9298,70 +9216,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 257.81 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "044e10b9-95a2-49ef-a891-cab962c62f5d")
-		(property "Reference" "H4"
-			(at 260.35 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "19.99 logo"
-			(at 260.35 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "1999:1999 logo md"
-			(at 257.81 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 257.81 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Rana Tadpole PCB"
-				(path "/9f19960e-6523-4fd2-955a-272ad4648acf"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 56.896 184.15 0)
 		(unit 1)
@@ -9657,7 +9511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 140.97 29.21 0)
 			(effects
 				(font
@@ -10658,7 +10512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "qw-footprints:RP2040-QFN-56"
+		(property "Footprint" "Box Footprints:RP2040-QFN-56"
 			(at 31.0708 29.718 0)
 			(effects
 				(font
@@ -11158,7 +11012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2"
 			(at 128.27 19.05 0)
 			(effects
 				(font
@@ -11226,7 +11080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 140.97 19.05 0)
 			(effects
 				(font
@@ -11540,7 +11394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 115.57 39.37 0)
 			(effects
 				(font
@@ -11788,7 +11642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 115.57 49.53 0)
 			(effects
 				(font
@@ -11992,70 +11846,6 @@
 			(project "Rana Tadpole PCB"
 				(path "/9f19960e-6523-4fd2-955a-272ad4648acf"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 257.81 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "5bcdd6e6-e1fb-4115-a293-e92e12242d5c")
-		(property "Reference" "H3"
-			(at 260.35 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "qw-logo"
-			(at 260.35 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "qw-logo:qw new logo silk + copper sm"
-			(at 257.81 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 257.81 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Rana Tadpole PCB"
-				(path "/9f19960e-6523-4fd2-955a-272ad4648acf"
-					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -12433,7 +12223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 153.67 19.05 0)
 			(effects
 				(font
@@ -13182,7 +12972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 153.67 49.53 0)
 			(effects
 				(font
@@ -13338,7 +13128,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 102.87 49.53 0)
 			(effects
 				(font
@@ -13732,7 +13522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 140.97 39.37 0)
 			(effects
 				(font
@@ -14137,7 +13927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 140.97 49.53 0)
 			(effects
 				(font
@@ -14207,7 +13997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprint:FPC-SMD_X05A26H12G"
+		(property "Footprint" "Box Dependecies:FPC-SMD_X05A26H12G"
 			(at 270.51 96.52 0)
 			(effects
 				(font
@@ -14322,7 +14112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 115.57 29.21 0)
 			(effects
 				(font
@@ -14390,7 +14180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 102.87 29.21 0)
 			(effects
 				(font
@@ -14702,7 +14492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 102.87 19.05 0)
 			(effects
 				(font
@@ -14770,7 +14560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:FPC-05F-30PH20"
+		(property "Footprint" "Box Footprints:FPC-05F-30PH20"
 			(at 107.95 77.47 0)
 			(effects
 				(font
@@ -14988,7 +14778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 153.67 29.21 0)
 			(effects
 				(font
@@ -15392,7 +15182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 115.57 19.05 0)
 			(effects
 				(font
@@ -15658,7 +15448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:FPC-05F-30PH20"
+		(property "Footprint" "Box Footprints:FPC-05F-30PH20"
 			(at 144.78 77.47 0)
 			(effects
 				(font
@@ -15972,7 +15762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 128.27 29.21 0)
 			(effects
 				(font
@@ -16015,70 +15805,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 257.81 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "da8ddc99-d144-409c-b01a-3b342d0277b5")
-		(property "Reference" "H1"
-			(at 260.35 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "qw-logo"
-			(at 260.35 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "qw-logo:qw new logo silk + copper sm"
-			(at 257.81 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 257.81 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Rana Tadpole PCB"
-				(path "/9f19960e-6523-4fd2-955a-272ad4648acf"
-					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 128.27 54.61 0)
 		(unit 1)
@@ -16104,7 +15830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 128.27 49.53 0)
 			(effects
 				(font
@@ -16172,7 +15898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 102.87 39.37 0)
 			(effects
 				(font
@@ -16562,7 +16288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 128.27 39.37 0)
 			(effects
 				(font
@@ -16599,70 +16325,6 @@
 			(project "Rana Tadpole PCB"
 				(path "/9f19960e-6523-4fd2-955a-272ad4648acf"
 					(reference "B1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 257.81 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed22c874-0c71-4922-a563-efe6be168b03")
-		(property "Reference" "H2"
-			(at 260.35 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "19.99 logo"
-			(at 260.35 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "1999:1999 logo md"
-			(at 257.81 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 257.81 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 257.81 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Rana Tadpole PCB"
-				(path "/9f19960e-6523-4fd2-955a-272ad4648acf"
-					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -16940,7 +16602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "moth footprints:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "Box Footprints:SW_Hotswap_Kailh_Choc_V1V2_THT"
 			(at 153.67 39.37 0)
 			(effects
 				(font
