@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.3,
+          "height": 0.4,
+          "width": 0.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -59,28 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "footprint_type_mismatch|101128622|50703637|23abc061-5b3b-461a-b688-92583ed2fda1|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|113873931|127242453|8755ed64-225f-471d-a525-3f6bfc9f9e6a|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|113877651|82249559|15fc5078-3c0f-4faf-9147-df9427badd98|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|120311203|106201968|376bf58e-75e5-4b54-a63e-b616778bbbb5|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|120748972|61132258|02675692-f724-4395-b947-3bb7471c0ec5|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|128882027|143339423|9a1de0a2-048a-4767-9ed8-f4f69e1c0804|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|135322423|122304183|9d0f12ed-b6f0-4955-882f-ea17c975e5ec|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|167607802|144214250|a364bbf4-786f-4fcd-8f3c-ad886ba2d812|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|185073835|130252732|251104e7-2915-40de-8c84-eace2eee04cd|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|187473042|82845467|eab569c0-adbb-426e-9c89-8af0be4704f7|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|198414863|51872305|780ce6de-2dd5-402e-864e-e99f18342f1b|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|220475489|117202632|53df7f8e-9050-42f7-852c-96883cd87dbc|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|229020747|69311705|5f574ca0-91d5-4c37-8d4f-f3b43ad0d354|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|250738416|73935933|5a9616ab-e881-4507-a280-8a97ec6d3718|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|50572447|73342234|9167cd93-65ad-4140-9790-5716e22ee48a|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|57519649|52232953|44bf4ded-2284-42af-956b-424d579a2703|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|72292840|68736298|859e47e6-6edb-4bd1-8fdf-2704af395bef|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|79160301|47621711|f5d629f4-e9ba-4d6e-ab51-1316ddd18c94|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|94273970|71821242|e1e59593-4bae-4478-a9c6-151714080fd3|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|98868141|111162263|ee6c8533-330d-4f64-9619-42b7b8fd32d9|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -101,7 +80,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
-        "holes_co_located": "ignore",
+        "holes_co_located": "error",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -157,7 +136,7 @@
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -473,7 +452,10 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Box Footprints",
+      "Panelization.pretty-master"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -515,7 +497,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Rana Tadpole PCB.step",
+      "step": "../Moth Top Left PCB.step",
       "svg": "",
       "vrml": ""
     },
