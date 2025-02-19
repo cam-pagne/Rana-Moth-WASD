@@ -3,8 +3,7 @@
 WASD version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable leverless controller.
 
 <div style="display: flex;">
-    <img src="Images/Layout.jpg" alt="Layout 1" width="300" />
-    <img src="Images/Folded.jpg" alt="Layout 2" width="300" />
+    <img src="Images/PCB Moth - White.jpg" alt="Layout 1" width="300" />
 </div>
 
 <details>
