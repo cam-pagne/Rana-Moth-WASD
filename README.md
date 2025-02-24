@@ -30,7 +30,7 @@ I printed the entire shell, hinges, etc., in **Bambu Lab Matte PLA** (though any
 - **Microcontroller:** RP2040—**integrated directly onto the custom PCB.** No separate soldering is needed for the Pico if using my PCB design.
 - **Switches:** Must be **low profile switches.** I use pretty much any Kailh Choc Low Profile switches. They all work, just choose a preferred switch type.
 - **USB-C Connector:** Rana Labs and Quark's QuRB, a USB C Breakout board with a ribbon cable port, for solderless assembly.
-- **Hardware:** M2 screws and M3 screws are the only fasteners required to assemble. You will need **10 M3 heat inserts** for the backplates, **12 M3 x 5/6mm bolts** for the backplates and QuRB, and **8 M2 x 4mm bolts** to secure each half of the mainboards.
+- **Hardware:** M2 screws and M3 screws are the only fasteners required to assemble. You will need **ten M3 heat inserts** for the backplates, **twelve M3 x 5/6mm bolts** for the backplates and QuRB, and **eight M2 x 4mm bolts** to secure each half of the mainboards.
 
 ---
 
