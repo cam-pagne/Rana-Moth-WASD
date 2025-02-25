@@ -6,21 +6,6 @@ WASD version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable
     <img src="Images/PCB Moth - White.jpg" alt="Layout 1" width="600" />
 </div>
 
-<details>
-  <summary><h4>What's changed from the original?</h4></summary>
-
-- Added the WASD style up button.
-- Sunk part of the shell under the WASD cluster to add mounting points for the Raspberry Pico.
-- Removed one modifier button and repositioned the others for increased comfort.
-- Changed the USB-C port location to accommodate the WASD layout (port slot fitted for ModelUD).
-- Enlarged the hinge rounded edges to ensure a secure friction fit in 'prism' mode.
-- Added a lip to the hinge to lock in the desired prism angle.
-- Adjusted the thickness of the hinge pin holes for a tighter friction fit.
-- Modified the magnet hole size to accommodate larger magnets that firmly snap the controller together.
-- Filleted the controller edges to provide a smoother, rounded feel.
-
-</details>
-
 ---
 
 ## Build Overview (What do I need to make one?)
