@@ -27,7 +27,7 @@ WASD version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable
 
 I printed the entire shell, hinges, etc., in **Bambu Lab Matte PLA** (though any PLA should work, build quality feel may vary).
 
-- **Mainboards:** RP2040—**integrated directly onto the custom PCB.** No separate soldering is needed for the Pico if using my PCB design.
+- **Mainboards:** RP2040—**integrated directly onto the left custom PCB.** The right side is connnected by ribbon cable.
 - **Switches:** Must be **low profile switches.** I use pretty much any Kailh Choc Low Profile switches. They all work, just choose a preferred switch type.
 - **USB-C Connector:** [Quark's](https://github.com/quark-works) and Rana Labs' [QuRB](https://github.com/rana-sylvatica/rana-tadpole/tree/main/PCBs/Breakout%20Board%20(QuRB)), a USB C Breakout board with a ribbon cable port, for solderless assembly.
 - **Hardware:** M2 screws and M3 screws are the only fasteners required to assemble. You will need **ten M3 heat inserts** for the backplates, **twelve M3 x 5/6mm bolts** for the backplates and QuRB, and **eight M2 x 4mm bolts** to secure each half of the mainboards.
