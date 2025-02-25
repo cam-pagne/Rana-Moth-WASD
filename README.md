@@ -27,48 +27,20 @@ WASD version of [Rana Labs'](https://github.com/rana-sylvatica) Moth, a foldable
 
 I printed the entire shell, hinges, etc., in **Bambu Lab Matte PLA** (though any PLA should work, build quality feel may vary).
 
-- **Microcontroller:** RP2040—**integrated directly onto the custom PCB.** No separate soldering is needed for the Pico if using my PCB design.
+- **Mainboards:** RP2040—**integrated directly onto the custom PCB.** No separate soldering is needed for the Pico if using my PCB design.
 - **Switches:** Must be **low profile switches.** I use pretty much any Kailh Choc Low Profile switches. They all work, just choose a preferred switch type.
 - **USB-C Connector:** [Quark's](https://github.com/quark-works) and Rana Labs' [QuRB](https://github.com/rana-sylvatica/rana-tadpole/tree/main/PCBs/Breakout%20Board%20(QuRB)), a USB C Breakout board with a ribbon cable port, for solderless assembly.
 - **Hardware:** M2 screws and M3 screws are the only fasteners required to assemble. You will need **ten M3 heat inserts** for the backplates, **twelve M3 x 5/6mm bolts** for the backplates and QuRB, and **eight M2 x 4mm bolts** to secure each half of the mainboards.
 
 ---
 
-## Assembly Options
+## Assembly
 
-### PCB Option
+### PCB
 
-To streamline your build, I’ve designed a custom PCB for this controller. This board integrates the Pico directly—eliminating the need for any handwiring of the microcontroller. The **only soldering required is the installation of the hotswap sockets for the Choc switches.** This approach not only simplifies assembly but also reduces the potential for wiring errors.
+To streamline your build, I’ve designed a custom PCB for this controller. This board integrates the Pico directly eliminating the need for any handwiring of the microcontroller. The **only soldering required is the installation of the hotswap sockets for the Choc switches.**
 
 The two halves of the board are connected using a 20 pin, .5 pitch ribbon cable, and the QuRB is connected to the Left side board for USB C port via a 12 pin, .5 pitch ribbon cable.
-
-<details>
-  <summary><strong>Handwiring Option (Optional)</strong></summary>
-
-For users who prefer a traditional approach or as a reference, here are the handwiring instructions. (Note: When using the PCB option, this process is unnecessary.)
-
-### Initial Wiring:
-- **Pico Side:** Wire up the Pico side completely first.
-- **Opposite Side:** Run the wires individually from the opposite side.
-- **Important:** Ensure that you run the cross-body wiring while the Moth is in its **folded position** to avoid tension.
-
-### Wiring Tips:
-- If the controller isn’t folded during soldering, the cross-body wires may become too tight when folding later.
-- Leave **ample slack** for the cross-body wiring.
-- Route wires behind the hinge pin for a neat installation.
-
-### Hinge Pin Placement:
-- Insert the hinge pin **before** wiring the cross-body connections.
-- Running wires prior to inserting the hinge pin can obstruct its path, making installation challenging.
-
-#### Wiring Example
-
-This was my first soldering project in a long time; while my solder joints may not be perfect, the key point is the proper routing of wires from the non-Pico side to the Pico side.
-<div style="display: flex;">
-    <img src="Images/Wiring Example.jpg" alt="Wiring Example" width="500" />
-</div>
-
-</details>
 
 ---
 
